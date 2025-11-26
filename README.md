@@ -61,4 +61,4 @@ robot tests/demoTest.robot
 
 Jika berhasil, akan muncul keterangan seperti berikut:
 
-![img](https://github-production-user-asset-6210df.s3.amazonaws.com/122163249/519052019-4dfb9dfc-d667-4647-a629-bea9a14bf69c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251126T075919Z&X-Amz-Expires=300&X-Amz-Signature=c4226b1346c2058b23d04cac7df8d27c08d81d101f6444a9ca7769a3acffe1be&X-Amz-SignedHeaders=host) 
+![img](https://github.com/user-attachments/assets/9e3e4de6-b78c-4465-9cf1-c3efb8e1c86d) 
