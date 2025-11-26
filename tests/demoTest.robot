@@ -12,7 +12,7 @@ ${DEVICE_ID}		      emulator-5554 # Sesuaikan emulator Android studio
 ${ANDROID_PLATFORM_VERSION}   %{ANDROID_PLATFORM_VERSION=16} # Sesuaikan versi android
 
 # --- Konfigurasi File path ---
-${APP_PATH}		      ${CURDIR}/../drivers/ApiDemos-debug.apk
+${APP_PATH}		      ${CURDIR}/../resources/ApiDemos-debug.apk
 ${APP_PACKAGE}		      io.appium.android.apis
 ${APP_ACTIVITY}		      .app.SearchInvoke
 
